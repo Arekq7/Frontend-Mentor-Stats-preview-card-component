@@ -149,7 +149,7 @@ body {
   position: relative;
   background: url(/images/image-header-desktop.jpg) no-repeat center/cover;
   min-width: 50%;
-  height: 25rem;
+  height: 27rem;
   -webkit-box-ordinal-group: 3;
       -ms-flex-order: 2;
           order: 2;
@@ -161,7 +161,7 @@ body {
   content: '';
   position: absolute;
   background-color: rgba(224, 0, 255, 0.5);
-  height: 25rem;
+  height: 27rem;
   width: 100%;
 }
 
